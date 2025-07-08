@@ -17,17 +17,22 @@ A collection of reusable **HTML + CSS web components**, including cards, loaders
 /web-components/
 │
 ├── Cards/
-│ └── Card1.html
-│ └── Card2.html
-| └── Card3.html
-| └── Cards.css
+│   ├── Card1.html
+│   ├── Card2.html
+│   ├── Card3.html
+│   ├── Cards.css
 │
 ├── loaders/
-│ └── 
+│   ├── spinner1.html
 │
 ├── buttons/
-│ └── 
+│   ├── button1.html
 │
+├── styles/
+│   ├── global.css
+│
+└── index.html
+
 
 
 
