@@ -12,28 +12,6 @@ A collection of reusable **HTML + CSS web components**, including cards, loaders
 - ✅ Animations & Transitions
 - ...and more!
 
-## 📁 Folder Structure
-
-/web-components/
-│
-├── Cards/
-│   ├── Card1.html
-│   ├── Card2.html
-│   ├── Card3.html
-│   ├── Cards.css
-│
-├── loaders/
-│   ├── spinner1.html
-│
-├── buttons/
-│   ├── button1.html
-│
-├── styles/
-│   ├── global.css
-│
-└── index.html
-
-
 
 
 > Each component is **standalone** and can be copied into any HTML project.
